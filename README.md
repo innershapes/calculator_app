@@ -1,7 +1,7 @@
 # Python Tkinter Application
 
 #This application was created with the help of Adeyinka Adegbenro's Culculator Tutorial.
-#It helped my grasp the concepts of classes, user defined definitions, and tkinder module.
+It helped my grasp the concepts of classes, user defined definitions, and tkinder module.
 
 
 
