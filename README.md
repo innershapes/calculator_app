@@ -1,7 +1,7 @@
 # Python Tkinter Application
 
 #This GUI Application was created with the help of Adeynka Adegbenro's Culculator Tutorial.
-It helped me grasp the concepts of classesfor OOP, user defined definitions, and tkinter module.
+It helped me grasp the concepts of classes, user defined definitions, and tkinter module.
 
 
 
